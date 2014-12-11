@@ -10,7 +10,7 @@ class SessionController extends \BaseController {
 	 */
 	public function index()
 	{
-		echo  "test session controller, index action";
+		echo  "Testing session controller, index action";
 	}
 
 	/**
